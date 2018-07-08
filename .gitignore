@@ -1,2 +1,6 @@
 node_modules
 auth.json
+mail.json
+*.json
+src/config/*
+src/config/mail.json
